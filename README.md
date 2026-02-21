@@ -14,9 +14,22 @@ Neden? Daha hafif, daha güvenli ve çalınmış kodlar üzerine değil, orijina
 
 Alternatif (MC Sapıklar İçin): [Freesm Launcher](https://freesmlauncher.org/). Tamamen açık kaynak kodlu ve çoklu profil yönetimi için bir numara.
 
-Legacy Launcher İsim yazıp hemen oyuna başlayabilirsin
+Legacy Launcherda İsim yazıp hemen oyuna başlayabilirsin
 
 Oyuna giriş butonunun altındaki dörtlüden en sağdakine, yani üç çizgili simgeye tıklayın.
+
+<img width="327" height="326" alt="javaw_ri240g4BQ5" src="https://github.com/user-attachments/assets/e973bc0d-c11f-42e0-8b95-20e4cc0e3185" /> 
+
+Ely.by kostüm sistemi: Cilt/Skin servisi.
+
+Microsoft: Resmi giriş.
+
+Buy Minecraft: Oyun satın-al.
+
+Bedava (şifresiz): Ücretsiz/Korsan giriş.
+
+Kafam karıştı... Yardım et: Destek al.
+
 
 
 4. Modların Kurulumu (Modrinth App)
