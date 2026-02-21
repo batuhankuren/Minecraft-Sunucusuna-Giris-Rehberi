@@ -86,7 +86,18 @@ Yapıştır ve Run!
 
 ⚙️ Son Dokunuşlar 
 
-Sürüm Listesini Aç
+Ciddi ve teknik bir üslup ile RAM (bellek) ayarı talimatı:
+Performans ve Bellek (RAM) Ayarı
+
+   Ayarlara Giriş: Ana ekrandaki üç çizgili simgeye tıklayıp "Tercihler" bölümüne gidin.
+   
+   Bellek Ayırma: Buradaki sürgüyü kullanarak Java'ya ayrılan RAM miktarını artırın. RAM miktarı ne kadar yüksek olursa, oyun içi FPS değeriniz o kadar artacaktır.
+
+   Kritik Uyarı: Bilgisayarınızdaki toplam RAM'in tamamını buraya ayırmayın. Sistem için pay bırakmazsanız, bilgisayarınız zorlandığında donar veya kilitlenir.
+
+   Onay: Ayarı yaptıktan sonra kaydedip çıkın.
+
+Sürümü indir Sürüm Listesini Aç
 
 Doğru Sürümü Bul: Listeyi aşağı kaydırarak Fabric 1.21.1 sürümünü bulun ve üzerine tıklayarak seçin.
 
@@ -96,4 +107,4 @@ Dosyaların İmesini Bekle: Bilgisayar gerekli dosyaları otomatik olarak indire
 
 Dil Ayarı: Oyuna girince dil muhtemelen İngilizce olacak, hemen Türkçe yapın ki ayarları anlayın.
 
-. Optimizasyon: Video ayarlarını kendi PC'nize göre yapın. "Render Distance"ı çok zorlamayın, sonra sunucuda "lag var" diye ağlamayın.
+Optimizasyon: Video ayarlarını kendi PC'nize göre yapın. "Render Distance"ı çok zorlamayın, sonra sunucuda "lag var" diye ağlamayın.
