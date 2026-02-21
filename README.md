@@ -33,12 +33,10 @@ Legacy Launcher için
 
 Setup.exe dosyasına çift tıkla ve kurulumu yap.
 
-3. Hesap oluşturma (Sikin yapma)
+3️⃣. Hesap oluşturma (Sikin yapma)
 
 Oyuna giriş ekranında, butonun altındaki simgelerden
 en sağdaki üç çizgili (☰) olana tıkla.
-
-<img width="327" height="326" alt="javaw_ri240g4BQ5" src="https://github.com/user-attachments/assets/e973bc0d-c11f-42e0-8b95-20e4cc0e3185" /> 
 
 Ely.by kostüm sistemi: Cilt/Skin servisi.(Kayıt Gerekli)
 
@@ -51,9 +49,6 @@ Bedava (şifresiz): Ücretsiz/Korsan giriş.
 Kafam karıştı... Yardım et: Destek al.
 
 Şimdilik launcheri kapatabilirsin
-
-
-![com modrinth ModrinthApp](https://github.com/user-attachments/assets/d0c15a62-fea5-4147-84d0-27ff2ba4cb52)
 
 4. Modların Kurulumu (Modrinth App)
 
@@ -72,14 +67,16 @@ Discord mod kanalındaki dosyayı indir. Dosyaya çift tıkla, Mod kurulumu baş
 Amele gibi modları tek tek kurmakla uğraşmıyoruz, Modrinth'in indirdiği tertemiz dosyaları Legacy Launcher'a "deploy" ediyoruz.
 
 En hızlı yöntem:
-Modrinth Kaynağına Eriş: Modrinth App’te "Play" butonunun yanındaki üç noktaya tıklayın ve "Open Folder" diyerek modların yüklü olduğu klasörü açın.
+Modrinth Kaynağına Eriş: Modrinth App üzerinden "Play" butonunun yanındaki üç noktaya tıklayın ve "Open Folder" seçeneğiyle klasörü açın.
 
-Karşınıza çıkan o 7-8 tane dosyayı (mods, config, vs.) Ctrl+A ile seçip sağ tık Kopyala deyin. Burayla işimiz bitti, klasörü kapatabilirsiniz.
+Dosyaları Kopyala: Klasördeki tüm dosyaları (mods, config vb.) Ctrl+A ile seçip sağ tıklayarak "Kopyala" deyin. Ardından bu pencereyi kapatın.
 
-Legacy Launcher ana ekranında "Yükle ve Oyuna Gir" kısmına gel.
-Oradaki ikinci sırada bulunan sarı klasör simgesine tıkla.
+Legacy Launcher Klasörünü Aç: Legacy Launcher ana ekranında, "Yükle ve Oyuna Gir" bölümünün yanındaki ikinci sırada bulunan sarı klasör simgesine tıklayın.Oradaki ikinci sırada bulunan sarı klasör simgesine tıkla.
 Bu işlem doğrudan ana Minecraft klasörünü açacaktır.
 
+Dosya yolu
+
+    C:\Users\PC\AppData\Roaming\.tlauncher\legacy\Minecraft\game
 
 DİKKAT: Burada ne görüyorsanız hepsini seçin ve Delete tuşuna basın. İçeriyi "clean install" (temiz kurulum) için boşaltmamız lazım ki dosyalar birbirine girmesin.
 
@@ -87,7 +84,15 @@ Az önce kopyaladığınız o temiz Modrinth dosyalarını bu boş klasöre sağ
 
 Yapıştır ve Run!
 
-⚙️ Son Dokunuşlar (FPS Drop Yememek İçin)
+⚙️ Son Dokunuşlar 
+
+Sürüm Listesini Aç
+
+Doğru Sürümü Bul: Listeyi aşağı kaydırarak Fabric 1.21.1 sürümünü bulun ve üzerine tıklayarak seçin.
+
+Yüklemeyi Başlat: Seçimi yaptıktan sonra "Yükle ve Oyuna Gir" butonuna basın.
+
+Dosyaların İmesini Bekle: Bilgisayar gerekli dosyaları otomatik olarak indirecektir; bu işlem bitene kadar pencereyi kapatmayın.
 
 Dil Ayarı: Oyuna girince dil muhtemelen İngilizce olacak, hemen Türkçe yapın ki ayarları anlayın.
 
