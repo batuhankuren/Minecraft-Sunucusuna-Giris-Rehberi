@@ -32,33 +32,40 @@ Freesm Launcher İndirme
 
     setup.exe dosyasına çift tıklayıp kurulumu tamamlayın.
 
-3. Hesap Oluşturma ve Giriş Seçenekleri
+3. 3️⃣. Hesap oluşturma (Sikin yapma)
 
-    Giriş seçenekleri:
+Oyuna giriş ekranında, butonun altındaki simgelerden
+en sağdaki üç çizgili (☰) olana tıkla.
 
-        Microsoft: Resmi ve güvenli giriş.
+Hesapları yönetin
 
-        Satın Al: Oyun lisansı ile giriş.
+Ve Ekleyin
 
-        Ücretsiz / Korsan: Sunucu politikası izin veriyorsa; güvenlik ve destek sınırlı olabilir.
+    Ely.by kostüm sistemi: Cilt/Skin servisi.(Kayıt Gerekli)
 
-    Not: Sunucuya hangi hesap türüyle bağlanılacağı sunucu kurallarında belirtilmiş olmalı. Destek gerekiyorsa Discord #destek kanalına yazın.
+    Bedava (şifresiz): Ücretsiz/Korsan giriş.
+
+    Kafam karıştı... Yardım et: Destek al.
+
+    Şimdilik launcheri kapatabilirsin
 
 4. Modların Kurulumu (Modrinth App)
 
     Neden: Sunucumuz modlu; herkesin aynı mod paketini kullanması gerekiyor.
+   
+Modrinth App İndir: modrinth.com adresine girin ve uygulamasını indirin. (Diğer yöntemlerden daha hızlı ve kullanıcısı daha yüksek bir yerdir, güvenin bana).
+
+[Modrinth](https://modrinth.com/app)
 
     Adımlar:
 
-        Modrinth App indirin: modrinth.com → uygulamayı indirip kurun.
+        Modrinth App indirin: [modrinth.com](https://modrinth.com/) → uygulamayı indirip kurun.
 
         Discord’daki mod kanalından paylaşılan mod paketini indirin.
 
         İndirilen dosyaya çift tıklayın; Modrinth otomatik kurulum başlatacaktır (yaklaşık 300 mod).
 
-5. Dosya Göçü Operasyonu (Manual Sync)
-
-    Amaç: Modrinth tarafından indirilen temiz dosyaları başlatıcıya aktarmak.
+6. Dosya Göçü Operasyonu (Manual Sync)
 
     Adımlar:
 
@@ -76,7 +83,7 @@ Freesm Launcher İndirme
 
         Launcher’dan Run / Oyuna Gir ile başlatın.
 
-6. Son Dokunuşlar ve Performans Ayarları
+7. Son Dokunuşlar ve Performans Ayarları
 
     Java RAM ayarları (öneri):
 
