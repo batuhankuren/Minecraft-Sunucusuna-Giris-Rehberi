@@ -55,7 +55,7 @@ Giriş Türleri ve Kısa Açıklama
 
     Ely.by Skin Sistemi
 
-        Cilt/skin servisi. Kayıt gerektirir. Skin yüklemek veya değiştirmek için Ely.by hesabı oluşturman gerekir.
+        Cilt/skin servisi. Kayıt gerektirir. Skin değiştirmek için Ely.by hesabı oluşturman gerekir.
 
     Ücretsiz / Korsan Giriş
     
