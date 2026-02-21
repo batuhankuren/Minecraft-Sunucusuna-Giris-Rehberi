@@ -86,18 +86,26 @@ Yapıştır ve Run!
 
 ⚙️ Son Dokunuşlar 
 
-Ciddi ve teknik bir üslup ile RAM (bellek) ayarı talimatı:
-Performans ve Bellek (RAM) Ayarı
+Donanımınıza Göre Önerilen Ayarlar:
 
-   Ayarlara Giriş: Ana ekrandaki üç çizgili simgeye tıklayıp "Tercihler" bölümüne gidin.
+   4 GB Toplam RAM: 3.5 GB ayırın.
    
-   Bellek Ayırma: Buradaki sürgüyü kullanarak Java'ya ayrılan RAM miktarını artırın. RAM miktarı ne kadar yüksek olursa, oyun içi FPS değeriniz o kadar artacaktır.
+   Allaha Emanet: Sistemin her an çökebilir. Grafikleri en düşüğe çekmeyi unutmayın, oyun açıkken arkada tarayıcı bile çalıştırmayın!
+        
+   8 GB Toplam RAM: 6 GB ayırın.
+   
+   Yeterli: Windows için 2 GB pay bırakıyoruz, böylece hem sistem hem oyun rahat nefes alıyor.
+        
+   16 GB Toplam RAM: 10 - 12 GB ayırın.
+   
+   Konfor Modu: En ideal ve en çok kullanılan miktardır. Hem akıcı bir oyun deneyimi sağlar hem de shader kullanımına olanak tanır.
+       
+   32 GB+ Toplam RAM: 16 GB ayırın.
+   
+   Overkill: 16 GB'dan fazlasını vermeyin; Java'nın çalışma mantığı gereği fazlası sistemi yorar. Bu miktar ile oyunun en üst limitlerinde akarsınız!
 
-   Kritik Uyarı: Bilgisayarınızdaki toplam RAM'in tamamını buraya ayırmayın. Sistem için pay bırakmazsanız, bilgisayarınız zorlandığında donar veya kilitlenir.
-
-   Onay: Ayarı yaptıktan sonra kaydedip çıkın.
-
-Sürümü indir Sürüm Listesini Aç
+   
+   Önemli Uyarı: Bilgisayarınızdaki toplam RAM'in tamamını asla oyuna ayırmayın. Sistem için pay bırakmazsanız, bilgisayarınız zorlandığında donar veya kilitlenir.
 
 Doğru Sürümü Bul: Listeyi aşağı kaydırarak Fabric 1.21.1 sürümünü bulun ve üzerine tıklayarak seçin.
 
