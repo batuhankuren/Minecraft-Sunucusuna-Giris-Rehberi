@@ -1,118 +1,97 @@
-# Minecraft Sunucusuna Giriş Rehberi
-Selamlar! Bir aydır üzerinde çalıştığın o sunucu için "final boss" aşamasına gelmişsin, eline sağlık. Gece 23:00'te bu heyecanla rehber hazırlaman gerçek bir "dev" enerjisi.
+1. Karargah Discord
 
-1️⃣. Karargah: Discord
+    Amaç: Haberleşme, IP ve güncelleme duyuruları, destek.
 
-Haberleşme ve güncellemeler için Discord şart. Değişiklikler, IP güncellemeleri ve "sunucu neden çöktü?" sorularının cevabı orada. Eğer hala yoksa, açmanın vakti geldi.
+    Yapılması gerekenler: Sunucu için bir Discord sunucusu oluştur veya var olanı aktif tut. #duyurular, #destek, #modlar gibi kanallar aç.
 
-2️⃣. Başlatıcı Seçimi Oyunu edinme (Launcher)
+2. Başlatıcı Seçimi ve İndirme
 
-Piyasada çok popüler olan bazı başlatıcıların (ismini vermeyelim, sen anladın) arka planda ne olduğu belirsiz kodlar çalıştırdığı ve "spyware" (casus yazılım) olduğu topluluk tarafından biliniyor. Bilgisayarınızı bir botnet'in parçası yapmaya gerek yok.
+    Neden önemli: Bazı üçüncü parti başlatıcılar arka planda istenmeyen kod çalıştırabilir. Güvenilir, açık kaynak veya orijinal yapıya yakın başlatıcı tercih et.
 
-Önerim: [Legacy Launcher](https://llaun.ch/tr) (Eski TL Legacy).
-Neden? Daha hafif, daha güvenli ve çalınmış kodlar üzerine değil, orijinal yapı üzerine inşa edilmiş.
+    Öneriler:
 
-Alternatif (MC Sapıklar İçin): [Freesm Launcher](https://freesmlauncher.org/). Tamamen açık kaynak kodlu ve çoklu profil yönetimi için bir numara.
+        Legacy Launcher — hafif ve güvenli bir seçenek.
 
-İndrme 
+        Freesm Launcher — açık kaynak, çoklu profil yönetimi için uygun.
 
-Siteye gir
+Legacy Launcher İndirme
 
-Legacy Launcher için 
+    Siteye girin.
 
-1 Download/Windows için indir
+    Download / Windows için indir veya Download via direct link seçeneklerinden uygun olanı seçin.
 
-2 Download via direct link
+Freesm Launcher İndirme
 
- Freesm Launcher İçin
+    Siteye girin.
 
-1 download now
+    Download now → setup.exe veya x86_64 sürümünü indirin.
 
-2 setup.exe,x86_64
+    setup.exe dosyasına çift tıklayıp kurulumu tamamlayın.
 
+3. Hesap Oluşturma ve Giriş Seçenekleri
 
-Setup.exe dosyasına çift tıkla ve kurulumu yap.
+    Giriş seçenekleri:
 
-3️⃣. Hesap oluşturma (Sikin yapma)
+        Microsoft: Resmi ve güvenli giriş.
 
-Oyuna giriş ekranında, butonun altındaki simgelerden
-en sağdaki üç çizgili (☰) olana tıkla.
+        Satın Al: Oyun lisansı ile giriş.
 
-Ely.by kostüm sistemi: Cilt/Skin servisi.(Kayıt Gerekli)
+        Ücretsiz / Korsan: Sunucu politikası izin veriyorsa; güvenlik ve destek sınırlı olabilir.
 
-Microsoft: Resmi giriş.
-
-Buy Minecraft: Oyun satın-al.
-
-Bedava (şifresiz): Ücretsiz/Korsan giriş.
-
-Kafam karıştı... Yardım et: Destek al.
-
-Şimdilik launcheri kapatabilirsin
+    Not: Sunucuya hangi hesap türüyle bağlanılacağı sunucu kurallarında belirtilmiş olmalı. Destek gerekiyorsa Discord #destek kanalına yazın.
 
 4. Modların Kurulumu (Modrinth App)
 
-Sunucumuz modlu olduğu için "bende Minecraft var, hadi gireyim" diyemezsiniz. Hepimizde aynı mod paketinin (instance) yüklü olması lazım. Bunun için en modern ve "performans odaklı" platform olan Modrinth'i kullanacağız.
+    Neden: Sunucumuz modlu; herkesin aynı mod paketini kullanması gerekiyor.
 
-Modrinth App İndir: [modrinth.com](https://modrinth.com/) adresine girin ve uygulamasını indirin. (Diğer yöntemlerden daha hızlı ve kullanıcısı daha yüksek bir yerdir, güvenin bana).
+    Adımlar:
 
+        Modrinth App indirin: modrinth.com → uygulamayı indirip kurun.
 
-İndirilenlerden exe dosyayısını bul, çift tıkla uygulamayı kur uygulama açılmalı.
+        Discord’daki mod kanalından paylaşılan mod paketini indirin.
 
+        İndirilen dosyaya çift tıklayın; Modrinth otomatik kurulum başlatacaktır (yaklaşık 300 mod).
 
-Discord mod kanalındaki dosyayı indir. Dosyaya çift tıkla, Mod kurulumu başlasın. 300 mod otomatik olarak yüklenecektir.
+5. Dosya Göçü Operasyonu (Manual Sync)
 
-4. Dosya Göçü Operasyonu (Manual Sync)
+    Amaç: Modrinth tarafından indirilen temiz dosyaları başlatıcıya aktarmak.
 
-Amele gibi modları tek tek kurmakla uğraşmıyoruz, Modrinth'in indirdiği tertemiz dosyaları Legacy Launcher'a "deploy" ediyoruz.
+    Adımlar:
 
-En hızlı yöntem:
-Modrinth Kaynağına Eriş: Modrinth App üzerinden "Play" butonunun yanındaki üç noktaya tıklayın ve "Open Folder" seçeneğiyle klasörü açın.
+        Modrinth App içinde ilgili instance’ın yanındaki üç noktaya tıklayın → Open Folder ile klasörü açın.
 
-Dosyaları Kopyala: Klasördeki tüm dosyaları (mods, config vb.) Ctrl+A ile seçip sağ tıklayarak "Kopyala" deyin. Ardından bu pencereyi kapatın.
+        Klasördeki tüm dosyaları (mods, config vb.) seçip Kopyala yapın.
 
-Legacy Launcher Klasörünü Aç: Legacy Launcher ana ekranında, "Yükle ve Oyuna Gir" bölümünün yanındaki ikinci sırada bulunan sarı klasör simgesine tıklayın.Oradaki ikinci sırada bulunan sarı klasör simgesine tıkla.
-Bu işlem doğrudan ana Minecraft klasörünü açacaktır.
+        Legacy Launcher ana ekranında sarı klasör simgesine tıklayarak Minecraft ana klasörünü açın.
 
-Dosya yolu
+        Dosya yolu: C:\Users\<KullanıcıAdı>\AppData\Roaming\.tlauncher\legacy\Minecraft\game
 
-    C:\Users\PC\AppData\Roaming\.tlauncher\legacy\Minecraft\game
+        Bu klasördeki mevcut içerikleri silin (clean install için).
 
-DİKKAT: Burada ne görüyorsanız hepsini seçin ve Delete tuşuna basın. İçeriyi "clean install" (temiz kurulum) için boşaltmamız lazım ki dosyalar birbirine girmesin.
+        Modrinth’ten kopyaladığınız dosyaları bu boş klasöre Yapıştırın.
 
-Az önce kopyaladığınız o temiz Modrinth dosyalarını bu boş klasöre sağ tık yapıp Yapıştır diyerek aktarın. Tebrikler, artık sunucuya girmek için modlar hazır.
+        Launcher’dan Run / Oyuna Gir ile başlatın.
 
-Yapıştır ve Run!
+6. Son Dokunuşlar ve Performans Ayarları
 
-⚙️ Son Dokunuşlar 
+    Java RAM ayarları (öneri):
 
-Donanımınıza Göre Önerilen Ayarlar:
+        4 GB toplam RAM: 3.5 GB ayırın.
 
-   4 GB Toplam RAM: 3.5 GB ayırın.
-   
-   Allaha Emanet: Sistemin her an çökebilir. Grafikleri en düşüğe çekmeyi unutmayın, oyun açıkken arkada tarayıcı bile çalıştırmayın!
-        
-   8 GB Toplam RAM: 6 GB ayırın.
-   
-   Yeterli: Windows için 2 GB pay bırakıyoruz, böylece hem sistem hem oyun rahat nefes alıyor.
-        
-   16 GB Toplam RAM: 10 - 12 GB ayırın.
-   
-   Konfor Modu: En ideal ve en çok kullanılan miktardır. Hem akıcı bir oyun deneyimi sağlar hem de shader kullanımına olanak tanır.
-       
-   32 GB+ Toplam RAM: 16 GB ayırın.
-   
-   Overkill: 16 GB'dan fazlasını vermeyin; Java'nın çalışma mantığı gereği fazlası sistemi yorar. Bu miktar ile oyunun en üst limitlerinde akarsınız!
+        8 GB toplam RAM: 6 GB ayırın.
 
-   
-   Önemli Uyarı: Bilgisayarınızdaki toplam RAM'in tamamını asla oyuna ayırmayın. Sistem için pay bırakmazsanız, bilgisayarınız zorlandığında donar veya kilitlenir.
+        16 GB toplam RAM: 10–12 GB ayırın.
 
-Doğru Sürümü Bul: Listeyi aşağı kaydırarak Fabric 1.21.1 sürümünü bulun ve üzerine tıklayarak seçin.
+        32 GB+ toplam RAM: 16 GB ayırın (fazlası genelde gereksiz).
 
-Yüklemeyi Başlat: Seçimi yaptıktan sonra "Yükle ve Oyuna Gir" butonuna basın.
+        Önemli: Toplam RAM’in tamamını ayırmayın; işletim sistemi için en az 2 GB boş bırakın.
 
-Dosyaların İmesini Bekle: Bilgisayar gerekli dosyaları otomatik olarak indirecektir; bu işlem bitene kadar pencereyi kapatmayın.
+    Grafik ve performans:
 
-Dil Ayarı: Oyuna girince dil muhtemelen İngilizce olacak, hemen Türkçe yapın ki ayarları anlayın.
+        Render Distance’ı makul seviyede tutun.
 
-Optimizasyon: Video ayarlarını kendi PC'nize göre yapın. "Render Distance"ı çok zorlamayın, sonra sunucuda "lag var" diye ağlamayın.
+        Shader kullanıyorsanız daha fazla RAM ayırın ama sistem kararlı kalmalı.
+
+        Oyun açıkken arka planda ağır uygulamalar çalıştırmayın.
+
+    Dil ve optimizasyon: Oyuna girdikten sonra dil muhtemelen İngilizce olur; Türkçe yapın ve video ayarlarını PC’nize göre düzenleyin.
