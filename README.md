@@ -8,6 +8,10 @@
 
     Neden önemli: Bazı üçüncü parti başlatıcılar arka planda istenmeyen kod çalıştırabilir. Güvenilir, açık kaynak veya orijinal yapıya yakın başlatıcı tercih et.
 
+[Legacy Launcher](https://llaun.ch/tr) (Eski TL Legacy)
+
+[Freesm Launcher](https://freesmlauncher.org/)
+
     Öneriler:
 
         Legacy Launcher — hafif ve güvenli bir seçenek.
