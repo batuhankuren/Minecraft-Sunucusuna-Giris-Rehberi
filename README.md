@@ -35,9 +35,9 @@ Freesm Launcher İndirme
 
     setup.exe dosyasına çift tıklayıp kurulumu tamamlayın.
 
-3. 3️⃣. Hesap oluşturma (Sikin yapma)
+ Hesap oluşturma (Sikin yapma)
 
-Adımlar
+3. Adımlar
 
     Launcher’ı aç
 
