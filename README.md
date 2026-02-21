@@ -1,20 +1,39 @@
 # Minecraft Sunucusuna Giriş Rehberi
 Selamlar! Bir aydır üzerinde çalıştığın o sunucu için "final boss" aşamasına gelmişsin, eline sağlık. Gece 23:00'te bu heyecanla rehber hazırlaman gerçek bir "dev" enerjisi.
-1. Karargah: Discord
+
+1️⃣. Karargah: Discord
 
 Haberleşme ve güncellemeler için Discord şart. Değişiklikler, IP güncellemeleri ve "sunucu neden çöktü?" sorularının cevabı orada. Eğer hala yoksa, açmanın vakti geldi.
 
-2. Başlatıcı Seçimi (Launcher)
+2️⃣. Başlatıcı Seçimi Oyunu edinme (Launcher)
 
 Piyasada çok popüler olan bazı başlatıcıların (ismini vermeyelim, sen anladın) arka planda ne olduğu belirsiz kodlar çalıştırdığı ve "spyware" (casus yazılım) olduğu topluluk tarafından biliniyor. Bilgisayarınızı bir botnet'in parçası yapmaya gerek yok.
-3. Hesap oluşturma (Sikin yapma)
 
 Önerim: [Legacy Launcher](https://llaun.ch/tr) (Eski TL Legacy).
 Neden? Daha hafif, daha güvenli ve çalınmış kodlar üzerine değil, orijinal yapı üzerine inşa edilmiş.
 
 Alternatif (MC Sapıklar İçin): [Freesm Launcher](https://freesmlauncher.org/). Tamamen açık kaynak kodlu ve çoklu profil yönetimi için bir numara.
 
+İndrme 
+
+Siteye gir
+
+Legacy Launcher için 
+
+1 Download/Windows için indir
+
+2 Download via direct link
+
+ Freesm Launcher İçin
+
+1 download now
+
+2 setup.exe,x86_64
+
+
 Setup.exe dosyasına çift tıkla ve kurulumu yap.
+
+3. Hesap oluşturma (Sikin yapma)
 
 Oyuna giriş ekranında, butonun altındaki simgelerden
 en sağdaki üç çizgili (☰) olana tıkla.
@@ -43,7 +62,7 @@ Sunucumuz modlu olduğu için "bende Minecraft var, hadi gireyim" diyemezsiniz. 
 Modrinth App İndir: [modrinth.com](https://modrinth.com/) adresine girin ve uygulamasını indirin. (Diğer yöntemlerden daha hızlı ve kullanıcısı daha yüksek bir yerdir, güvenin bana).
 
 
-Idirilenlerden exe dosyayısını bul, çift tıkla uygulamayı kur uygulama açılmalı.
+İndirilenlerden exe dosyayısını bul, çift tıkla uygulamayı kur uygulama açılmalı.
 
 
 Discord mod kanalındaki dosyayı indir. Dosyaya çift tıkla, Mod kurulumu başlasın. 300 mod otomatik olarak yüklenecektir.
@@ -57,11 +76,16 @@ Modrinth Kaynağına Eriş: Modrinth App’te "Play" butonunun yanındaki üç n
 
 Karşınıza çıkan o 7-8 tane dosyayı (mods, config, vs.) Ctrl+A ile seçip sağ tık Kopyala deyin. Burayla işimiz bitti, klasörü kapatabilirsiniz.
 
+Legacy Launcher ana ekranında "Yükle ve Oyuna Gir" kısmına gel.
+Oradaki ikinci sırada bulunan sarı klasör simgesine tıkla.
+Bu işlem doğrudan ana Minecraft klasörünü açacaktır.
+
+
 DİKKAT: Burada ne görüyorsanız hepsini seçin ve Delete tuşuna basın. İçeriyi "clean install" (temiz kurulum) için boşaltmamız lazım ki dosyalar birbirine girmesin.
 
-Yapıştır ve Run!
+Az önce kopyaladığınız o temiz Modrinth dosyalarını bu boş klasöre sağ tık yapıp Yapıştır diyerek aktarın. Tebrikler, artık sunucuya girmek için modlar hazır.
 
-Az önce kopyaladığınız o temiz Modrinth dosyalarını bu boş klasöre sağ tık yapıp Yapıştır diyerek aktarın. Tebrikler, artık sunucuya girmek için hazırsınız.
+Yapıştır ve Run!
 
 ⚙️ Son Dokunuşlar (FPS Drop Yememek İçin)
 
