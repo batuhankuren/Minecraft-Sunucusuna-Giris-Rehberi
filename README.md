@@ -14,13 +14,14 @@ Neden? Daha hafif, daha güvenli ve çalınmış kodlar üzerine değil, orijina
 
 Alternatif (MC Sapıklar İçin): [Freesm Launcher](https://freesmlauncher.org/). Tamamen açık kaynak kodlu ve çoklu profil yönetimi için bir numara.
 
-Legacy Launcherda İsim yazıp hemen oyuna başlayabilirsin
+Setup.exe dosyasına çift tıkla ve kurulumu yap.
 
-Oyuna giriş butonunun altındaki dörtlüden en sağdakine, yani üç çizgili simgeye tıklayın.
+Oyuna giriş ekranında, butonun altındaki simgelerden
+en sağdaki üç çizgili (☰) olana tıkla.
 
 <img width="327" height="326" alt="javaw_ri240g4BQ5" src="https://github.com/user-attachments/assets/e973bc0d-c11f-42e0-8b95-20e4cc0e3185" /> 
 
-Ely.by kostüm sistemi: Cilt/Skin servisi.
+Ely.by kostüm sistemi: Cilt/Skin servisi.(Kayıt Gerekli)
 
 Microsoft: Resmi giriş.
 
@@ -30,7 +31,10 @@ Bedava (şifresiz): Ücretsiz/Korsan giriş.
 
 Kafam karıştı... Yardım et: Destek al.
 
+Şimdilik launcheri kapatabilirsin
 
+
+![com modrinth ModrinthApp](https://github.com/user-attachments/assets/d0c15a62-fea5-4147-84d0-27ff2ba4cb52)
 
 4. Modların Kurulumu (Modrinth App)
 
