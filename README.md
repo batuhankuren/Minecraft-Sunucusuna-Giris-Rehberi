@@ -6,8 +6,6 @@
 
 2. Başlatıcı Seçimi ve İndirme
 
-    Neden önemli: Bazı üçüncü parti başlatıcılar arka planda istenmeyen kod çalıştırabilir. Güvenilir, açık kaynak veya orijinal yapıya yakın başlatıcı tercih et.
-
 [Legacy Launcher](https://llaun.ch/tr) (Eski TL Legacy)
 
 [Freesm Launcher](https://freesmlauncher.org/)
@@ -17,6 +15,11 @@
         Legacy Launcher — hafif ve güvenli bir seçenek.
 
         Freesm Launcher — açık kaynak, çoklu profil yönetimi için uygun.
+
+Neden önemli: Bazı üçüncü parti başlatıcılar arka planda istenmeyen kod çalıştırabilir.
+
+Güvenilir, açık kaynak veya orijinal yapıya yakın başlatıcı tercih et.
+
 
 Legacy Launcher İndirme
 
