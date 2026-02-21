@@ -34,20 +34,37 @@ Freesm Launcher İndirme
 
 3. 3️⃣. Hesap oluşturma (Sikin yapma)
 
-Oyuna giriş ekranında, butonun altındaki simgelerden
-en sağdaki üç çizgili (☰) olana tıkla.
+Adımlar
 
-Hesapları yönetin
+    Launcher’ı aç
 
-Ve Ekleyin
+    Giriş ekranında butonun altındaki simgelerden en sağdaki üç çizgili (☰) simgeye tıkla.
 
-    Ely.by kostüm sistemi: Cilt/Skin servisi.(Kayıt Gerekli)
+    Açılan menüden Hesapları Yönet seçeneğini seç.
 
-    Bedava (şifresiz): Ücretsiz/Korsan giriş.
+    Ekle butonuna tıklayarak yeni bir hesap ekle.
 
-    Kafam karıştı... Yardım et: Destek al.
+Giriş Türleri ve Kısa Açıklama
 
-    Şimdilik launcheri kapatabilirsin
+    Microsoft
+
+        Resmi lisanslı hesaplar için önerilir.
+
+    Ely.by Skin Sistemi
+
+        Cilt/skin servisi. Kayıt gerektirir. Skin yüklemek veya değiştirmek için Ely.by hesabı oluşturman gerekir.
+
+    Ücretsiz / Korsan Giriş
+    
+       Kullanılabilir.
+
+Son Adım
+
+    Şimdilik launcheri kapatabilirsin. 
+    
+    Mod kurulumu ve dosya aktarımı sırasında launcher kapalı olmalı; 
+    
+    kurulum tamamlandıktan sonra tekrar açıp oyuna giriş yap.
 
 4. Modların Kurulumu (Modrinth App)
 
@@ -65,24 +82,24 @@ Modrinth App İndir: modrinth.com adresine girin ve uygulamasını indirin. (Di�
 
         İndirilen dosyaya çift tıklayın; Modrinth otomatik kurulum başlatacaktır (yaklaşık 300 mod).
 
-6. Dosya Göçü Operasyonu (Manual Sync)
+6. Modları taşıma (Manual Sync)
 
-    Adımlar:
+    Amaç: Modrinth’in indirdiği temiz dosyaları Legacy Launcher’a aktarmak.
 
-        Modrinth App içinde ilgili instance’ın yanındaki üç noktaya tıklayın → Open Folder ile klasörü açın.
+    Modrinth klasörünü açın: Modrinth App içinde ilgili instance’ın yanındaki üç noktaya tıklayın → Open Folder.
 
-        Klasördeki tüm dosyaları (mods, config vb.) seçip Kopyala yapın.
+    Dosyaları kopyalayın: Açılan klasördeki tüm dosyaları (mods, config vb.) Ctrl+A ile seçin → sağ tık → Kopyala.
 
-        Legacy Launcher ana ekranında sarı klasör simgesine tıklayarak Minecraft ana klasörünü açın.
+    Launcher açın: Legacy Launcher ana ekranında sarı klasör simgesine tıklayarak Minecraft ana klasörünü açın.
 
-        Dosya yolu: C:\Users\<KullanıcıAdı>\AppData\Roaming\.tlauncher\legacy\Minecraft\game
+    Mevcut dosyaları temizleyin:
 
-        Bu klasördeki mevcut içerikleri silin (clean install için).
+        Dosya yolu örneği: C:\Users\<KullanıcıAdı>\AppData\Roaming\.tlauncher\legacy\Minecraft\game
 
-        Modrinth’ten kopyaladığınız dosyaları bu boş klasöre Yapıştırın.
+        Bu klasördeki tüm içerikleri seçip silin (clean install).
 
-        Launcher’dan Run / Oyuna Gir ile başlatın.
-
+    Dosyaları yapıştırın: Modrinth’ten kopyaladığınız dosyaları bu boş klasöre Yapıştırın.
+   
 7. Son Dokunuşlar ve Performans Ayarları
 
     Java RAM ayarları (öneri):
@@ -95,7 +112,13 @@ Modrinth App İndir: modrinth.com adresine girin ve uygulamasını indirin. (Di�
 
         32 GB+ toplam RAM: 16 GB ayırın (fazlası genelde gereksiz).
 
-        Önemli: Toplam RAM’in tamamını ayırmayın; işletim sistemi için en az 2 GB boş bırakın.
+        Önemli: Toplam RAM’in tamamını ayırmayın; işletim sistemi için en az 2 GB boş bırakın yoksa pc kitlenebilir  .
+
+Launcher’ı kapatın ve tekrar açın: Dosyalar aktarıldıktan sonra Legacy Launcher’dan instance’ı seçip Run / Oyuna Gir ile başlatın.
+
+Oyun Açıldı 🎉
+
+Dil ve optimizasyon: Oyuna girdikten sonra dil muhtemelen İngilizce olur; Türkçe yapın ve video ayarlarını PC’nize göre düzenleyin.
 
     Grafik ve performans:
 
@@ -105,4 +128,14 @@ Modrinth App İndir: modrinth.com adresine girin ve uygulamasını indirin. (Di�
 
         Oyun açıkken arka planda ağır uygulamalar çalıştırmayın.
 
-    Dil ve optimizasyon: Oyuna girdikten sonra dil muhtemelen İngilizce olur; Türkçe yapın ve video ayarlarını PC’nize göre düzenleyin.
+Minecraft Sunucusuna Hızlı Katılma
+
+    IP’yi al: Discord’da 🌐・ip-adres kanalına bak; oradaki güncel IP’yi kopyala.
+
+    Minecraft’ı aç: Multiplayer → Add Server (Sunucu Ekle).
+
+    IP’yi yapıştır: Server Address kısmına Discord’daki IP’yi yapıştır, Done ile kaydet.
+
+    Bağlan: Sunucuyu seçip Join Server ile gir. Alternatif: Direct Connect ile IP’yi yapıştırıp hemen bağlan.
+
+    Kontrol: Discord’daki durum etiketi 🟢 Açık / 🔴 Kapalı kontrol et; sorun olursa Mehmet Efeye yaz.
