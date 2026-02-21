@@ -59,7 +59,7 @@ Giriş Türleri ve Kısa Açıklama
 
     Ücretsiz / Korsan Giriş
     
-       Kullanılabilir.
+       Kullanılabilir sikin değişmez.
 
 Son Adım
 
